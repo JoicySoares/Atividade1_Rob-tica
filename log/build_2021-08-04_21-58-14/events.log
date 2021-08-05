@@ -1,0 +1,57 @@
+[0.000000] (-) TimerEvent: {}
+[0.000000] (controller) JobQueued: {'identifier': 'controller', 'dependencies': OrderedDict()}
+[0.016000] (controller) JobStarted: {'identifier': 'controller'}
+[0.109000] (-) TimerEvent: {}
+[0.219000] (-) TimerEvent: {}
+[0.328000] (-) TimerEvent: {}
+[0.438000] (-) TimerEvent: {}
+[0.547000] (-) TimerEvent: {}
+[0.656000] (-) TimerEvent: {}
+[0.766000] (-) TimerEvent: {}
+[0.875000] (-) TimerEvent: {}
+[0.984000] (-) TimerEvent: {}
+[1.094000] (-) TimerEvent: {}
+[1.203000] (-) TimerEvent: {}
+[1.313000] (-) TimerEvent: {}
+[1.438000] (-) TimerEvent: {}
+[1.516000] (controller) Command: {'cmd': ['c:\\opt\\ros\\foxy\\x64\\python.exe', 'setup.py', 'egg_info', '--egg-base', 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller', 'build', '--build-base', 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\build', 'install', '--prefix', 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller', '--record', 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\install.log', '--single-version-externally-managed'], 'cwd': 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\src\\controller', 'env': {'OneDriveConsumer': 'C:\\Users\\joicy\\OneDrive', 'ProgramFiles(x86)': 'C:\\Program Files (x86)', 'Path': 'C:\\opt\\ros\\foxy\\x64\\Scripts;C:\\opt\\ros\\foxy\\x64\\bin;C:\\Python38\\Scripts\\;C:\\Python38\\;C:\\Program Files\\Renode\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\MATLAB\\R2018b\\runtime\\win64;C:\\Program Files\\MATLAB\\R2018b\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\Microchip\\xc8\\v2.31\\bin;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\OpenSSL-Win64\\bin\\;C:\\opencv\\x64\\vc16\\bin;C:\\ProgramData\\chocolatey\\lib\\cunit\\lib;C:\\ProgramData\\chocolatey\\lib\\tinyxml2\\lib;C:\\ProgramData\\chocolatey\\lib\\log4cxx\\lib;C:\\ProgramData\\chocolatey\\lib\\bullet\\lib;C:\\Program Files (x86)\\GraphvizX.XX\\bin;C:\\Users\\joicy\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\joicy\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Users\\joicy\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\joicy\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\joicy\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\joicy\\.dotnet\\tools', 'ProgramW6432': 'C:\\Program Files', 'windir': 'C:\\WINDOWS', 'ChocolateyInstall': 'C:\\ProgramData\\chocolatey', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 142 Stepping 9, GenuineIntel', 'CARBON_MEM_DISABLE': '1', 'TMP': 'C:\\Users\\joicy\\AppData\\Local\\Temp', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'DriverData': 'C:\\Windows\\System32\\Drivers\\DriverData', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL', 'HOMEPATH': '\\Users\\joicy', 'WSLENV': 'WT_SESSION::WT_PROFILE_ID', 'configsetroot': 'C:\\WINDOWS\\ConfigSetRoot', 'ChocolateyLastPathUpdate': '132711927662153568', 'USERPROFILE': 'C:\\Users\\joicy', 'PKG_CONFIG_PATH': 'C:\\opt\\ros\\foxy\\x64\\lib\\pkgconfig;', 'LOGONSERVER': '\\\\LAPTOP-NUNFJ9D7', 'TEMP': 'C:\\Users\\joicy\\AppData\\Local\\Temp', 'AMENT_PREFIX_PATH': 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller;C:\\opt\\ros\\foxy\\x64;', 'ROS_PYTHON_VERSION': '3', 'ROS_VERSION': '2', 'OneDrive': 'C:\\Users\\joicy\\OneDrive', 'LOCALAPPDATA': 'C:\\Users\\joicy\\AppData\\Local', 'CommonProgramFiles': 'C:\\Program Files\\Common Files', 'ProgramData': 'C:\\ProgramData', 'ROS_LOCALHOST_ONLY': '0', 'COLCON': '1', 'COMPUTERNAME': 'LAPTOP-NUNFJ9D7', 'COLCON_CURRENT_PREFIX': 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install', 'ALLUSERSPROFILE': 'C:\\ProgramData', 'CommonProgramW6432': 'C:\\Program Files\\Common Files', 'USERNAME': 'joicy', 'ROS_DISTRO': 'foxy', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'CMAKE_PREFIX_PATH': 'C:\\opt\\ros\\foxy\\x64;', 'PYTHONPATH': 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\Lib\\site-packages;C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\Lib\\site-packages;C:\\opt\\ros\\foxy\\x64\\Lib\\site-packages;', 'PROCESSOR_REVISION': '8e09', 'HOMEDRIVE': 'C:', 'SystemRoot': 'C:\\WINDOWS', 'SystemDrive': 'C:', 'NUMBER_OF_PROCESSORS': '4', 'OS': 'Windows_NT', 'ProgramFiles': 'C:\\Program Files', 'ComSpec': 'C:\\WINDOWS\\system32\\cmd.exe', 'USERDOMAIN_ROAMINGPROFILE': 'LAPTOP-NUNFJ9D7', 'OPENSSL_CONF': 'C:\\Program Files\\OpenSSL-Win64\\bin\\openssl.cfg', 'PSModulePath': 'C:\\Users\\joicy\\Documents\\WindowsPowerShell\\Modules;C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'APPDATA': 'C:\\Users\\joicy\\AppData\\Roaming', 'USERDOMAIN': 'LAPTOP-NUNFJ9D7', 'PROCESSOR_LEVEL': '6', 'OpenCV_DIR': 'C:\\opencv', 'WT_SESSION': '9e25a410-bb86-4ad9-a246-32de5eaf9ab6', 'CommonProgramFiles(x86)': 'C:\\Program Files (x86)\\Common Files', 'PUBLIC': 'C:\\Users\\Public'}, 'shell': False}
+[1.547000] (-) TimerEvent: {}
+[1.656000] (-) TimerEvent: {}
+[1.766000] (-) TimerEvent: {}
+[1.875000] (-) TimerEvent: {}
+[1.984000] (-) TimerEvent: {}
+[2.109000] (-) TimerEvent: {}
+[2.219000] (-) TimerEvent: {}
+[2.266000] (controller) StdoutLine: {'line': b'running egg_info\r\n'}
+[2.266000] (controller) StdoutLine: {'line': b'writing C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\PKG-INFO\r\n'}
+[2.359000] (-) TimerEvent: {}
+[2.359000] (controller) StdoutLine: {'line': b'writing dependency_links to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\dependency_links.txt\r\n'}
+[2.359000] (controller) StdoutLine: {'line': b'writing entry points to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\entry_points.txt\r\n'}
+[2.359000] (controller) StdoutLine: {'line': b'writing requirements to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\requires.txt\r\n'}
+[2.359000] (controller) StdoutLine: {'line': b'writing top-level names to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\top_level.txt\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b"reading manifest file 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\SOURCES.txt'\r\n"}
+[2.375000] (controller) StdoutLine: {'line': b"writing manifest file 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info\\SOURCES.txt'\r\n"}
+[2.375000] (controller) StdoutLine: {'line': b'running build\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b'running build_py\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b'copying controller\\pose_controller.py -> C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\build\\lib\\controller\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b'running install\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b'running install_lib\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b'copying C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\build\\lib\\controller\\pose_controller.py -> C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\Lib\\site-packages\\controller\r\n'}
+[2.375000] (controller) StdoutLine: {'line': b"writing byte-compilation script 'C:\\Users\\joicy\\AppData\\Local\\Temp\\tmps2r8dzpg.py'\r\n"}
+[2.375000] (controller) StdoutLine: {'line': b'c:\\opt\\ros\\foxy\\x64\\python.exe C:\\Users\\joicy\\AppData\\Local\\Temp\\tmps2r8dzpg.py\r\n'}
+[2.469000] (-) TimerEvent: {}
+[2.500000] (controller) StdoutLine: {'line': b'removing C:\\Users\\joicy\\AppData\\Local\\Temp\\tmps2r8dzpg.py\r\n'}
+[2.500000] (controller) StdoutLine: {'line': b'running install_data\r\n'}
+[2.500000] (controller) StdoutLine: {'line': b'copying package.xml -> C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\share\\controller\r\n'}
+[2.500000] (controller) StdoutLine: {'line': b'running install_egg_info\r\n'}
+[2.516000] (controller) StdoutLine: {'line': b"removing 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\Lib\\site-packages\\controller-0.0.0-py3.8.egg-info' (and everything under it)\r\n"}
+[2.516000] (controller) StdoutLine: {'line': b'Copying C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\controller.egg-info to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\Lib\\site-packages\\controller-0.0.0-py3.8.egg-info\r\n'}
+[2.563000] (controller) StdoutLine: {'line': b'running install_scripts\r\n'}
+[2.594000] (-) TimerEvent: {}
+[2.609000] (controller) StdoutLine: {'line': b'Installing listener-script.py script to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\lib\\controller\r\n'}
+[2.609000] (controller) StdoutLine: {'line': b'Installing listener.exe script to C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\install\\controller\\lib\\controller\r\n'}
+[2.609000] (controller) StdoutLine: {'line': b"writing list of installed files to 'C:\\Users\\joicy\\Documents\\ufal\\2020.2\\robotica\\projetos\\atv1\\build\\controller\\install.log'\r\n"}
+[2.641000] (controller) CommandEnded: {'returncode': 0}
+[2.703000] (-) TimerEvent: {}
+[2.703000] (controller) JobEnded: {'identifier': 'controller', 'rc': 0}
+[2.703000] (-) EventReactorShutdown: {}

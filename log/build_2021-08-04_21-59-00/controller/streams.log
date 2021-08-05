@@ -1,0 +1,25 @@
+[1.484s] Invoking command in 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\src\controller': PYTHONPATH=C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages;%PYTHONPATH% c:\opt\ros\foxy\x64\python.exe setup.py egg_info --egg-base C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller build --build-base C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\build install --prefix C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller --record C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\install.log --single-version-externally-managed
+[2.219s] running egg_info
+[2.219s] writing C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\PKG-INFO
+[2.219s] writing dependency_links to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\dependency_links.txt
+[2.219s] writing entry points to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\entry_points.txt
+[2.219s] writing requirements to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\requires.txt
+[2.219s] writing top-level names to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\top_level.txt
+[2.266s] reading manifest file 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\SOURCES.txt'
+[2.266s] writing manifest file 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\SOURCES.txt'
+[2.266s] running build
+[2.266s] running build_py
+[2.281s] running install
+[2.281s] running install_lib
+[2.281s] writing byte-compilation script 'C:\Users\joicy\AppData\Local\Temp\tmpj1piqnqo.py'
+[2.281s] c:\opt\ros\foxy\x64\python.exe C:\Users\joicy\AppData\Local\Temp\tmpj1piqnqo.py
+[2.391s] removing C:\Users\joicy\AppData\Local\Temp\tmpj1piqnqo.py
+[2.391s] running install_data
+[2.391s] running install_egg_info
+[2.406s] removing 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages\controller-0.0.0-py3.8.egg-info' (and everything under it)
+[2.406s] Copying C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages\controller-0.0.0-py3.8.egg-info
+[2.437s] running install_scripts
+[2.469s] Installing listener-script.py script to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\lib\controller
+[2.469s] Installing listener.exe script to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\lib\controller
+[2.484s] writing list of installed files to 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\install.log'
+[2.500s] Invoked command in 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\src\controller' returned '0': PYTHONPATH=C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages;%PYTHONPATH% c:\opt\ros\foxy\x64\python.exe setup.py egg_info --egg-base C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller build --build-base C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\build install --prefix C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller --record C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\install.log --single-version-externally-managed

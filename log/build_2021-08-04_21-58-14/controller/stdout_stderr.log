@@ -1,0 +1,26 @@
+running egg_info
+writing C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\PKG-INFO
+writing dependency_links to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\dependency_links.txt
+writing entry points to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\entry_points.txt
+writing requirements to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\requires.txt
+writing top-level names to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\top_level.txt
+reading manifest file 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\SOURCES.txt'
+writing manifest file 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info\SOURCES.txt'
+running build
+running build_py
+copying controller\pose_controller.py -> C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\build\lib\controller
+running install
+running install_lib
+copying C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\build\lib\controller\pose_controller.py -> C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages\controller
+writing byte-compilation script 'C:\Users\joicy\AppData\Local\Temp\tmps2r8dzpg.py'
+c:\opt\ros\foxy\x64\python.exe C:\Users\joicy\AppData\Local\Temp\tmps2r8dzpg.py
+removing C:\Users\joicy\AppData\Local\Temp\tmps2r8dzpg.py
+running install_data
+copying package.xml -> C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\share\controller
+running install_egg_info
+removing 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages\controller-0.0.0-py3.8.egg-info' (and everything under it)
+Copying C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\controller.egg-info to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\Lib\site-packages\controller-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener-script.py script to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\lib\controller
+Installing listener.exe script to C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\install\controller\lib\controller
+writing list of installed files to 'C:\Users\joicy\Documents\ufal\2020.2\robotica\projetos\atv1\build\controller\install.log'

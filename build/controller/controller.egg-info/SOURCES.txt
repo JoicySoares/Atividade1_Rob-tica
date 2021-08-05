@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/PKG-INFO
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/SOURCES.txt
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/dependency_links.txt
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/entry_points.txt
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/requires.txt
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/top_level.txt
+C:/Users/joicy/Documents/ufal/2020.2/robotica/projetos/atv1/build/controller/controller.egg-info/zip-safe
+controller/__init__.py
+controller/pose_controller.py
+resource/controller
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
